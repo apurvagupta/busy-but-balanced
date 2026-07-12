@@ -17,3 +17,4 @@ Your website will be available at:
 https://apurvagupta.github.io/busy-but-balanced/
 
 Note: Instagram often blocks automated copying of post photos. The site links directly to the live Instagram profile so visitors always see the newest poses.
+
